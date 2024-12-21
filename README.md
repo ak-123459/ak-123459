@@ -88,26 +88,11 @@ my hobbies are research,watching movies,play cricket.
 
  <br> <br>
 
-## Work Expereince ●
+## Training & Internship ●
 
 Data Science Intern,Data Analytics Intern
 
  <br> <br>
-
-## Enterprise 💼
-
-<div id="badges" align="start">
-
-  <a >
-    <img src="https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1" width="100"/>
-  </a>
-
-
-  <a >
-    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1" width="70"/>
-  </a>
-</div>
-
 
 
  <br> <br>
