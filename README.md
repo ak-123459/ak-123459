@@ -46,7 +46,9 @@ my hobbies are research,watching movies,play cricket.
 
 ## 🌐 Portfolio ●
 
-Check out my live portfolio: [akash-prasad-mishra.web.app](https://akash-prasad-mishra.web.app/))
+Check out my live portfolio: [akash-prasad-mishra.web.app](https://akash-prasad-mishra.web.app/)
+
+ <br> <br>
 
 
 ## ⚙️ Technical Skills ●
