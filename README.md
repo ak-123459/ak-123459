@@ -44,8 +44,12 @@ my hobbies are research,watching movies,play cricket.
 
  <br> <br>
 
+## 🌐 Portfolio ●
 
-## Technical Skills ●
+Check out my live portfolio: [akash-prasad-mishra.web.app](https://akash-prasad-mishra.web.app/))
+
+
+## ⚙️ Technical Skills ●
 
 
 <div id="badges" align="center">
@@ -80,7 +84,7 @@ my hobbies are research,watching movies,play cricket.
 
  <br> <br>
 
-## Personal Skills ●
+## 👤 Personal Skills ●
 
 🧩Problem solving,💡Creative,💯self-motivated,✨positive
  <br> <br>
@@ -88,7 +92,7 @@ my hobbies are research,watching movies,play cricket.
 
  <br> <br>
 
-## Training & Internship ●
+## 🥷 Training & Internship ●
 
 Data Science Intern,Data Analytics Intern
 
